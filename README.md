@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dipanshu143
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning kotlin &flutter
+- 👀 I’m interested in Application Development
+- 🌱 I’m currently learning kotlin, flutter, AI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
